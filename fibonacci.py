@@ -2,7 +2,6 @@
 
 import tweepy
 import time
-from math import sqrt
 from datetime import datetime
 from os import environ
 
